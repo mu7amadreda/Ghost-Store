@@ -1,0 +1,76 @@
+/*start navbar  */
+.sub{
+    font-family: monospace;
+}
+.navmail{
+    font-size: 14px;
+    
+}
+.navbar-brand{
+    font-size: 25px;
+}
+.nav-item{
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 2px;
+}
+/*end navbar  */
+/* benner */
+.carouselimg{
+    height: 650px;
+    width: 100%;
+}
+.carousel-item p,h5{
+    color: #f5eeee
+    ;}
+
+
+/* end benner */
+/* start category section  */
+.categorycard{
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+
+}
+.categorycard p{
+    height: 40px;
+}
+.card{
+    border: none;
+    width: 90%;
+}
+.cardimg{
+    height: 350px;
+    border-radius: 250px;
+}
+/* end category section  */
+
+/* start about section  */
+.aboutus{
+    width: 100%;
+    background-color: rgb(33 37 41);
+    
+}
+.aboutcontent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+/* end about section  */
+
+
+/* start api card section  */
+.cardstyle{
+    text-align: center;
+    margin: 10px;
+}
+.cardstyle img{
+    height: 250px;
+    border-radius: 50px;
+}
+
+/* end api card section  */
